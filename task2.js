@@ -1,9 +1,7 @@
 /* Task 2 */
 
 function getFibonacci(n) {
-    let a = 1,
-        b = 0,
-        tmp;
+    let a = 1, b = 0, tmp;
 
     while (n > 0) {
         tmp = a;
